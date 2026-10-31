@@ -1,8 +1,3 @@
-"""Membuat jawaban dari potongan dokumen. Ada dua mode:
-1. Ekstraktif (default, offline): tampilkan potongan paling relevan.
-2. LLM (opsional): kalau ANTHROPIC_API_KEY terisi, jawaban dirangkum LLM
-   hanya dari konteks yang ditemukan, lengkap dengan rujukan halaman.
-"""
 import os
 
 from .rag import Chunk
