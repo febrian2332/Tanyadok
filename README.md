@@ -3,8 +3,8 @@
 Asisten tanya-jawab dokumen PDF berbahasa Indonesia berbasis RAG (Retrieval-Augmented Generation).
 Upload PDF, ajukan pertanyaan, dapatkan bagian dokumen yang paling relevan beserta halaman sumbernya.
 
-(<img width="960" height="1280" alt="Image 2026-10-31 at 14 47 07" src="https://github.com/user-attachments/assets/05ac5505-c67e-445c-a5bc-5fb460fb5f2b" />
-)
+<img width="960" height="1280" alt="Image 2026-10-31 at 14 47 07" src="https://github.com/user-attachments/assets/05ac5505-c67e-445c-a5bc-5fb460fb5f2b" />
+
 
 
 ## Masalah yang diselesaikan
