@@ -3,7 +3,8 @@
 Asisten tanya-jawab dokumen PDF berbahasa Indonesia berbasis RAG (Retrieval-Augmented Generation).
 Upload PDF, ajukan pertanyaan, dapatkan bagian dokumen yang paling relevan beserta halaman sumbernya.
 
-![Demo TanyaDok](demo.png)
+![Demo TanyaDok](![Uploading Image 2026-10-31 at 14.47.07.jpeg…]()
+)
 
 ## Masalah yang diselesaikan
 Dokumen panjang (modul kuliah, panduan, peraturan) sulit dicari dengan pencarian kata kunci biasa.
