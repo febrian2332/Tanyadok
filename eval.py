@@ -1,9 +1,3 @@
-"""Ukur kualitas pencarian. Jalankan: python eval.py data/panduan.pdf eval/questions.json
-
-Setiap soal berisi pertanyaan + halaman yang benar. Hasilnya:
-- Hit@k : berapa % soal yang halaman benarnya muncul di k hasil teratas
-- MRR   : rata-rata 1/peringkat halaman benar (makin dekat 1 makin bagus)
-"""
 import json
 import sys
 from pathlib import Path
